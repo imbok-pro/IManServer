@@ -1,2 +1,2 @@
 # IManServer
-Information Manger Server
+Information Manager Server
